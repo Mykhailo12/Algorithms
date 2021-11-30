@@ -1,3 +1,5 @@
+#bubble sorting algorithm
+
 def solution(nums: []):
     for i in range(len(nums)):
         for j in range(len(nums)-i-1):
